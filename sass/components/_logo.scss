@@ -1,0 +1,25 @@
+.logo {
+  margin-right: 93px;
+  color: $first-logo-color;
+
+  font-family: Raleway, Oleo Script, cursive;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  text-decoration: none;
+
+  &-web {
+    color: #2196f3;
+  }
+
+  &-secondary {
+    color: #ffffff;
+
+    font-family: Raleway, Oleo Script, cursive;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    text-decoration: none;
+  }
+}
+
